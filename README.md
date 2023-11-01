@@ -12,6 +12,7 @@ A dashboard for visualizing sales data.
 - [Limitations](#limitations)
 
 ### Project Overview
+---
 Unlocking Sales Success: Your Ultimate Sales Distribution Dashboard
 
 This project offers a powerful sales distribution dashboard that transforms raw data into actionable insights, empowering you to boost sales and streamline distribution with ease.
@@ -39,8 +40,15 @@ In the Initial data preparation phase, I performed the following tasks:
 EDA involved exploring the sales distribution data to answer key questions, such as:
 - What are the sales trends?
 - Which products are selling the most?
+  
+![image](https://github.com/chyonu/Sales-Distribution-Project/assets/91281098/37936841-5a80-45a8-a18c-e7500d59cf9f)
+
 - Who are the top customers?
+
+![image](https://github.com/chyonu/Sales-Distribution-Project/assets/91281098/00752fc2-0465-449c-9a4e-197eaae42a90)
+ 
 - What are the peak sales periods?
+- [Interactive dashboard](https://app.powerbi.com/reportEmbed?reportId=9c1f5a6f-3103-4ddc-899d-1f4b03de6254&autoAuth=true&ctid=a18d4da0-fa29-4ca0-80a3-dafe7e29cff3)
 
 ### Results
 The analysis results are summarized as follows:
@@ -57,3 +65,4 @@ Based on the analysis, I recommend the following actions:
 ### Limitations
 The dataset does not include specific information on distribution channels. Therefore, recommendations in this area are not as precise as they could be with channel-specific data. 
 
+### Thanks for reading! 😄
